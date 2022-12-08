@@ -4,6 +4,6 @@ public class First {
 
     public static void main(String[] args) {
 
-        System.out.println("First project");
+        System.out.println("First my project");
     }
 }
